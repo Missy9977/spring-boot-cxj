@@ -25,6 +25,5 @@ spring:
       enabled: true
 
 logging:
-  level:
   file:
     name: ../logs/cxj.log
