@@ -1,7 +1,7 @@
 /**
  * @author ChuXianJie
  */
-package com.cxj.springbootcxj.cxjUtil;
+package com.cxj.springbootcxj.common.util;
 
 import java.util.HashMap;
 import java.util.Map;

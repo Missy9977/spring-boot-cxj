@@ -1,7 +1,7 @@
 /**
  * @author ChuXianJie
  */
-package com.cxj.springbootcxj.cxjUtil;
+package com.cxj.springbootcxj.common.util;
 
 import java.lang.reflect.InvocationTargetException;
 import java.text.ParseException;

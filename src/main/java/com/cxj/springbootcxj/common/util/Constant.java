@@ -1,4 +1,4 @@
-package com.cxj.springbootcxj.cxjUtil;
+package com.cxj.springbootcxj.common.util;
 
 /**
  * 
